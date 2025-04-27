@@ -19,14 +19,20 @@ A simple and powerful Currency Exchange application that allows users to convert
 ⚙️ **Usage**
 <br><br>
 Select the source and target currencies.
+<br>
 Enter the amount to convert.
+<br>
 Click Get Exchange Rate to see the latest exchange rate.
+<br>
 
 🔗 **APIs Used**
 <br><br>
 ExchangeRate-API
-Flags api
+<br>
+Flags API
+<br>
 Open Exchange Rates
+<br>
 **Note**: You may need an API key to fetch live rates.
 <br><br><br>
 
